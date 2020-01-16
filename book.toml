@@ -1,0 +1,6 @@
+[book]
+authors = ["刘荣飞"]
+language = "zh"
+multilingual = true
+src = "src"
+title = "c语言视频教程-语法篇[点点学习网出品]"
