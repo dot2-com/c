@@ -8,7 +8,7 @@
 - [标准输出](./ch02-00-output.md)
   - [格式化输出](./ch02-01-format.md)
   - [转义字符](./ch02-02-special.md)
-  - [标准错误输出](./ch02-03-stderr.md)
+  - [标准输出文件，标准错误文件，文件重定向](./ch02-03-stderr.md)
   - [课后练习](./ch02-04-homework.md)
 - [变量与数据类型](./ch03-00-data-type.md)
   - [数据类型](./ch03-01-data-type.md)
