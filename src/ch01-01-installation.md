@@ -27,7 +27,13 @@
 
 ![](static/images/vscode.png)
 
-### 第三步：汉化（可选）
+### 第三步：安装插件(c/c++,code runner)
+
+安装这两个插件的目的是不需要每次都手动敲编译命令。
+
+**设置在控制台上运行代码** 文件>首选项>设置>用户>拓展>Run Code Configuration找到  `Run In Terminal`  打上勾
+
+### 第四步：汉化（可选）
 
 **具体操作可以看** [vscode汉化，设置为中文](https://dot2.com/t-55.html)
 
